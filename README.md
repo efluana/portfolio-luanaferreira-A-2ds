@@ -1,7 +1,6 @@
 # portfolio-luanaferreira-A-2ds
 Portfólio de competências e habilidades da aluna Luana Ferreira do 2° DS.
 
-Portifólio de competências e habilidades do Prof. Adriano Castro
 
 08/06 - Aula de introdução ao GitHub, quando a criação de repositório e gerenciamento do mesmo.
 
