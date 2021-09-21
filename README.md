@@ -11,3 +11,5 @@ Portfólio de competências e habilidades da aluna Luana Ferreira do 2° DS.
 08/06 - Foi desenvolvido a página inicial do projeto, bem como configurado o GitPages
 
 02/08 - Aula de introdução ao jQuery
+
+21/09 - Aplicamos Manifest (aula de PAM)
